@@ -25,9 +25,9 @@ $ cat ~/about.txt
 
 > **Research Intern @ IIT Madras (CyStar Club)** — building defensive systems at the intersection of **SIEM automation, applied ML, and threat intelligence**.
 
-I'm a CSE (Cybersecurity) undergrad at **Sri Krishna College of Engineering and Technology**, Coimbatore (CGPA: **8.69**). I spend my time turning security problems into production-grade defenses — configuring Wazuh Active Response, engineering anomaly-detection models, and hunting web-app vulnerabilities responsibly. Proud **Winner of Smart India Hackathon 2025 (Hardware Edition)**.
+I'm a CSE (Cybersecurity) undergrad at **Sri Krishna College of Engineering and Technology**, Coimbatore (CGPA: **8.43**). I spend my time turning security problems into production-grade defenses — configuring Wazuh Active Response, engineering anomaly-detection models, and hunting web-app vulnerabilities responsibly. Proud **Winner of Smart India Hackathon 2025 (Hardware Edition)**.
 
-- 🔭 **Currently building** → ML-based network anomaly detection combining **LSTM + Isolation Forest**, integrated with Wazuh
+- 🔭 **Currently building** → ML-based network anomaly detection combining **LSTM**, Wazuh Anomaly detector is configured for brute force detection 
 - 🧪 **Researching** → RAG-powered OpenSearch DSL generation and MCP server integration for SOC workflows
 - 🎯 **Focus areas** → SOC Engineering · DFIR · Detection Engineering · Threat Intelligence · Applied ML for Security
 - 📚 **Learning** → Advanced malware analysis, memory forensics with Volatility, and KQL for threat hunting
